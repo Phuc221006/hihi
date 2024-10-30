@@ -1,4 +1,12 @@
 # hihi
+halloween-website/
+├── index.html
+├── styles.css
+└── halloween/
+    ├── 2.jpg
+    ├── dyanh ảnh dự thi.jpg
+    └── KẺ NGỐC (蠢货) - Dụ Ngôn (喻言) - Bản Remix - Hot Douyin.mp3
+
 <!DOCTYPE html>
 <html lang="vi">
 <head>
